@@ -1,0 +1,11 @@
+EA-0000000000000|Arpita|arpita@gmail.com|Im@Arpita123|Admin
+EC-7777015436539|S.G. Abid|sg.abid.13@gmail.com|Im@Abid123|Customer
+EM-7018404368360|Hellsing|storm.hellsing@hotmail.com|Im@Mech123|Merchant|MechTech|https://store.roboticsbd.com/EC-6866323666607
+EC-3908776499925|Rafi|rafiprx7@gmail.com|Im@Rafi123|CustomerEC-6562755504496|Proma|mst.anika.cd2@gmail.com|123456P@|Customer
+EC-5398651206705|Rafi|rafi@gmail.com|Im@Rafi123|Customer
+EC-7336450749610|Rafi|rafi1@gmail.com|Im@Rafi123|Customer
+EC-5744982191586|Abid|abid@gmail.com|Im@Abid123|Customer
+EC-4499598581278|Taz |ahmadtazuddin14@gmail.com|9914Taz@|Customer
+
+EC-9205586661397|Anika Proma|aniqaanjum00@gmail.com|Anika1234@|Customer
+EC-4844375557365|Anika Anjum|promaanika991@gmail.com|Anjum1234@|Customer
